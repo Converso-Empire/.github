@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ConversoEmpire/.github/main/profile/logo.jpg" width="180" alt="Converso Empire Logo"/>
+  <img src="/logo.jpg" width="180" alt="Converso Empire Logo"/>
 </p>
 
 <h1 align="center">🌍 Converso Empire</h1>
