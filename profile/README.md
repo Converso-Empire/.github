@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/logo.jpg" width="180" alt="Converso Empire Logo"/>
+  <img src="https://9f7onqvz26sb8xlk.public.blob.vercel-storage.com/logo.png" width="180" alt="Converso Empire Logo"/>
 </p>
 
 <h1 align="center">🌍 Converso Empire</h1>
