@@ -2,7 +2,7 @@
   <img src="https://9f7onqvz26sb8xlk.public.blob.vercel-storage.com/logo.png" width="180" alt="Converso Empire Logo"/>
 </p>
 
-<h1 align="center">🌍 Converso Empire</h1>
+<h1 align="center">Converso Empire</h1>
 <h3 align="center">Empire of Innovation, Creativity & Intelligence</h3>
 
 <p align="center">
@@ -90,8 +90,8 @@ We’re open to creative developers, designers, and innovators.
 Join us in building an ecosystem where **AI, design, and code merge seamlessly**.
 
 📩 **Contact:**  
-- **Email:** info@conversoempire.com  
-- **Website:** [www.conversoempire.com](https://www.conversoempire.com) *(Coming Soon)*  
+- **Email:** info@conversoempire.world
+- **Website:** [www.conversoempire.com](https://conversoempire.world) *(Coming Soon)*  
 - **GitHub:** [github.com/Converso-Empire](https://github.com/Converso-Empire)  
 
 ---
